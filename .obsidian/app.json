@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showRibbon": true
+}

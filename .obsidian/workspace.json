@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "735e2302c381ffd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "414dd9968bddcf87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ac021914528d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Программирование/CSharp/С.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "626d93b03d36431f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6390ee3bfa93f441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8b91d0a1dc5526",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45aedd8f9d79d1ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0757002fd89d0d1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "602ce66f9d195f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "176ff4c726c0bd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bed4706c0a6931e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Программирование/CSharp/С.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46116ac14c93ff35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Программирование/CSharp/С.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4845d5eb32d1c4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d287d1762e84f2f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Программирование/CSharp/С.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": true,
+      "command-palette:Открыть палитру команд": true,
+      "markdown-importer:Импорт Markdown-файлов": true,
+      "obsidian-importer:Open Importer": true,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "b4ac021914528d19",
+  "lastOpenFiles": [
+    "notes/Программирование/CSharp/ОТЛОЖКА.md",
+    "notes/Программирование/Assembler/ОТЛОЖКА.md",
+    "notes/Программирование/ООП/Сокрытие данных.md",
+    "notes/Программирование/ООП/Полиморфизм.md",
+    "notes/Программирование/ООП/Подкласс и подтип.md",
+    "notes/Программирование/ООП/Поверхностное и полное копирование.md",
+    "notes/Программирование/ООП/Переопределение.md",
+    "notes/Программирование/ООП/Наследование.md",
+    "notes/Программирование/ООП/Инкапсуляция.md",
+    "notes/Программирование/ООП/Ассоциация (композиция и агрегация).md",
+    "notes/Программирование/ООП/Абстракция.md",
+    "notes/Программирование/Компоновщик, компилятор и препроцессор/Компоновщик, компилятор и препроцессор.md",
+    "notes/Программирование/Байт-код/Байт-код.md",
+    "notes/Программирование/Ассемблерный код/Ассемблерный код.md",
+    "tasks/Задания.md",
+    "tasks/Безымянная Kanban-доска.md",
+    "notes/AI/ML/NN/KAN.md",
+    "notes/AI/ML/ОТЛОЖКА.md",
+    "notes/AI/ML/NN/Pasted image 20240624180842.png",
+    "notes/Искусство/Запланировано.md",
+    "notes/WEB/ОТЛОЖКА.md",
+    "Без названия 2.canvas",
+    "Без названия 3.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "notes/Математика/ОТЛОЖКА.md",
+    "notes/Искусство/Аниме.md",
+    "notes/Искусство/Манга.md",
+    "notes/Программирование/ОТЛОЖКА.md",
+    "notes/Программирование/Assembler",
+    "notes/Программирование/Assembler.md",
+    "notes/AI/ML/Без названия.md",
+    "notes/AI/ML/Dataset/Pasted image 20240710231655.png",
+    "notes/AI/ML/Dataset",
+    "notes/Data Science",
+    "notes/AI/ML/NN/Untitled 6.png",
+    "notes/AI/ML",
+    "tasks",
+    "notes/Английский/Артикли/Артикли.png",
+    "notes/Математика/Вычислительная математика/Мантисса и порядок/1DCVgT1GmWFCQVGEcidBZ_UYR2-FBHcFHkhdWmRZNSqmateVa8azVtsbRz8PPgNJSvoIOsFNF8AlY4L9Zk9oXjEb.jpg",
+    "notes/Математика/Вычислительная математика/Мантисса и порядок/22KAs8blYaKNos4yTu1wXxLkrazI8PVi7KJ1x8XP0RY0VTAD75yYSqXGj0ULXaewpZNV9CWG_nOsnOiQj-kICHsf.jpg",
+    "notes/Английский/Предлоги/At, on, in/Untitled.jpeg",
+    "Notion/Математика/Вычислительная математика/Мантисса и порядок/1DCVgT1GmWFCQVGEcidBZ_UYR2-FBHcFHkhdWmRZNSqmateVa8azVtsbRz8PPgNJSvoIOsFNF8AlY4L9Zk9oXjEb.jpg",
+    "Notion/Базы данных/БД заметки/Untitled.png",
+    "Notion/Английский/Предлоги/At, on, in/Untitled.jpeg",
+    "Notion/Английский/Предлоги/At, on, in",
+    "Notion/Математика/Вычислительная математика/Мантисса и порядок",
+    "Notion/Программирование/CSharp/Stack & Heap",
+    "Notion/Математика/Методы описания поворота",
+    "Notion/WEB/Laravel"
+  ]
+}

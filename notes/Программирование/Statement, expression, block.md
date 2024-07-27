@@ -1,0 +1,18 @@
+- Команда или инструкция (statement) - [завершенная единица исполнения, которую может выполнить компьютер](https://www.programiz.com/kotlin-programming/statement-expression#:~:text=Statements%20are%20everything%20that%20make%20up%20a%20complete%20unit%20of%20execution). [Фрагмент кода, изменяющий состояние окружения в котором выполняется программа](https://ru.stackoverflow.com/questions/523492/%d0%a0%d0%b0%d0%b7%d0%bd%d0%b8%d1%86%d0%b0-%d0%bc%d0%b5%d0%b6%d0%b4%d1%83-statement-expression-%d0%b8-block%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b8-%d0%b1%d0%bb%d0%be%d0%ba). [Эквивалентны предложениям на естественных языках](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html#:~:text=%D0%A3%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%20%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%20%D0%BD%D0%B0%20%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85). В C#, C++, Java каждый statement заканчивается точкой с запятой
+
+```C#
+sum = 2 + 3; - инструкция содержащая выражение
+var sum; - просто инструкция без выражения
+```
+
+- Выражение (expression) - [последовательность (комбинация) значений, операторов (вызов функции тоже оператор), которая возвращает значение](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/expressions#:~:text=An%20expression%20is%20a%20sequence%20of%20operators%20and%20operands). Может быть частью statement
+
+```C#
+1 + 2 * 4 * foo.bar()
+```
+
+[В C# по поводу возвращаемого значения void написано следующее:](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/expressions#:~:text=%D0%9D%D0%B8%D1%87%D0%B5%D0%B3%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B3%D0%BE.%20%D0%AD%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F%20%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2%D0%BE%D0%BC%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%20%D1%81%20%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D0%B5%D0%BC%D1%8B%D0%BC%20%D1%82%D0%B8%D0%BF%D0%BE%D0%BC%20void.%20%D0%92%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%2C%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE%2C%20%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC%D0%BE%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5%20statement_expression%20(%20%C2%A712.7%20)%20%D0%B8%D0%BB%D0%B8%20%D0%B2%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D1%82%D0%B5%D0%BB%D0%B0%20lambda_expression%20(%20%C2%A711.16%20).)
+
+Ничего. Это происходит, когда выражение является вызовом метода с возвращаемым типом `void`. Выражение, классифицированное как ничего, допустимо только в контексте _statement_expression_ ( [§12.7](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#127-expression-statements) ) или в качестве тела _lambda_expression_ ( [§11.16](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/expressions#1116-anonymous-function-expressions) ).
+
+- Блок (блок) - набор команд (statement’ов)

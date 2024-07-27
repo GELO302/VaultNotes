@@ -1,0 +1,67 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "FFNiymIruAh-ep2dNPGfY",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "9QuOrhAh655RkihLjzqtQ",
+      "name": "Yellow",
+      "value": "#ffff00"
+    },
+    {
+      "id": "CeIImPSt2IOl3V-jF8wUQ",
+      "name": "White",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "notes/Базы данных/БД заметки",
+      "color": "FFNiymIruAh-ep2dNPGfY"
+    },
+    {
+      "path": "notes/Математика/Методы описания поворота/Методы описания поворота.md",
+      "color": "FFNiymIruAh-ep2dNPGfY"
+    },
+    {
+      "path": "notes/Программирование/С++",
+      "color": "FFNiymIruAh-ep2dNPGfY"
+    },
+    {
+      "path": "notes/Программирование",
+      "color": "FFNiymIruAh-ep2dNPGfY"
+    },
+    {
+      "path": "notes/AI/ML/ОТЛОЖКА.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    },
+    {
+      "path": "notes/AI/ML/NN/KAN.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    },
+    {
+      "path": "notes/Программирование/Assembler/ОТЛОЖКА.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    },
+    {
+      "path": "notes/Программирование/CSharp/ОТЛОЖКА.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    },
+    {
+      "path": "notes/Программирование/ОТЛОЖКА.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    },
+    {
+      "path": "notes/Математика/ОТЛОЖКА.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    },
+    {
+      "path": "notes/WEB/ОТЛОЖКА.md",
+      "color": "9QuOrhAh655RkihLjzqtQ"
+    }
+  ]
+}

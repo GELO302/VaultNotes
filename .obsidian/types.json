@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Дата создания": "datetime",
+    "Дата изменения": "datetime",
+    "Ссылки": "multitext",
+    "Создание": "datetime",
+    "Изменение": "datetime",
+    "Источники": "multitext",
+    "Теги": "multitext"
+  }
+}
